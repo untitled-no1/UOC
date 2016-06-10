@@ -1,0 +1,4 @@
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Domain\bin\Release\UntitledOfficeConverter.Domain.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Domain\bin\Release\UntitledOfficeConverter.Domain.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Domain\obj\Release\UntitledOfficeConverter.Domain.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Domain\obj\Release\UntitledOfficeConverter.Domain.pdb

@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\bin\Debug\OfficeConverter.BLL.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\bin\Debug\OfficeConverter.BLL.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\bin\Debug\UntitledOfficeConverter.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\bin\Debug\UntitledOfficeConverter.Domain.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\bin\Debug\UntitledOfficeConverter.Domain.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\bin\Debug\UntitledOfficeConverter.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\obj\Debug\OfficeConverter.BLL.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\obj\Debug\OfficeConverter.BLL.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\OfficeConverter.BLL\obj\Debug\OfficeConverter.BLL.pdb

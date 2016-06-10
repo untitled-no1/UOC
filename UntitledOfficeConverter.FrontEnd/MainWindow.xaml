@@ -1,0 +1,23 @@
+﻿<Window x:Class="UntitledOfficeConverter.FrontEnd.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:v="clr-namespace:UntitledOfficeConverter.FrontEnd.Views"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UntitledOfficeConverter.FrontEnd"
+        mc:Ignorable="d"
+        Title="UntitledOfficeConverter" Height="310" Width="300"
+        ResizeMode="NoResize">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Info" Click="Info_Click"/>
+                    <Separator />
+                    <MenuItem Header="_Exit" Click="Exit_Click"/>
+                </MenuItem>
+            </Menu>
+            <v:FilesDrop/>
+        </DockPanel>
+    </Grid>
+</Window>

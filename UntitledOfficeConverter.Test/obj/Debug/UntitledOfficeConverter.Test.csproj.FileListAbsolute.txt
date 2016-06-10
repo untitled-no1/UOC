@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\bin\Debug\UntitledOfficeConverter.Test.exe.config
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\bin\Debug\UntitledOfficeConverter.Test.exe
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\bin\Debug\UntitledOfficeConverter.Test.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\bin\Debug\UntitledOfficeConverter.dll
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\bin\Debug\UntitledOfficeConverter.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\obj\Debug\UntitledOfficeConverter.Test.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\obj\Debug\UntitledOfficeConverter.Test.exe
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\obj\Debug\UntitledOfficeConverter.Test.pdb
+D:\VisualStudioProjects\UntitledOfficeConverter\UntitledOfficeConverter.Test\obj\Debug\UntitledOfficeConverter.Test.csproj.ResolveComReference.cache

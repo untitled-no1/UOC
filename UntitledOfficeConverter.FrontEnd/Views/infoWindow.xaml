@@ -1,0 +1,28 @@
+﻿<Window x:Class="UntitledOfficeConverter.FrontEnd.Views.infoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UntitledOfficeConverter.FrontEnd.Views"
+        mc:Ignorable="d"
+        Title="UntitledOfficeConverter - Info" Height="355" Width="400"
+        ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Margin="15">
+            <Image Source="../Resources/logo.jpg"/>
+            <TextBlock Text="v0.2 (05.06.2016)" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,0,0,15"/>
+
+            <TextBlock Text="Supported Files:" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,0,0,15"/>
+            <TextBlock Text="Word: docx, doc, docm, dot, dotm, dotx, html, odt, rtf, txt, wps, xps" />
+            <TextBlock Text="Excel: xlsx, xls, csv, ods, xlsb, xlsm, xlt, xltm, xltx, xltw" />
+            <TextBlock Text="PowerPoint: ppt, pptx, pptm, pps, ppsx, ppsm, pot, potm, potx" />
+            <TextBlock Text="Microsoft Office has to be installed!" HorizontalAlignment="Center" FontWeight="Bold"/>
+
+            <TextBlock HorizontalAlignment="Center" Margin="0,15,0,0">
+                <Hyperlink NavigateUri="http://www.untitled-no1.at" RequestNavigate="Hyperlink_RequestNavigate">
+                    untitled-no1.at
+                </Hyperlink>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
