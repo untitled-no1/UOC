@@ -9,3 +9,5 @@ Tested on Windows 10 & Windows 8.1 with Office 2013
 Coming up next:
 - some validation stuff
 - Options: Portrait/Landscape, Pages, Quality...
+
+Get v0.2 Release at: www.untitled-no1.at
